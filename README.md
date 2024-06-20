@@ -17,6 +17,16 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 # 📊 GitHub Stats:
+<div style="max-width: 100%; width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=shubham-maurya-sm&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+</div>
+<div style="max-width: 100%; width: 300px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-maurya-sm&theme=ambient_gradient&hide_border=false" alt="GitHub Streak Stats">
+</div>
+<div style="max-width: 100%; width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-maurya-sm&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</div>
+
 ![](https://github-readme-stats.vercel.app/api?username=shubham-maurya-sm&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubham-maurya-sm&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-maurya-sm&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
