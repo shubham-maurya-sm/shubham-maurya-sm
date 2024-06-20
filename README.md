@@ -1,4 +1,16 @@
 
+- 💻 Owner of [**shubham-maurya-sm**](https://github.com/shubham-maurya-sm) github organization. Check it out for daily coding  contents.
+- 🤔 I’ve just completed my graduation (BCA) from University of Allahabad [Architecture Patterns with Python](#). Check it out if interested.
+- 🌱 I also teach Python, Machine Learning, Git, etc. Visit PyTopia website, [Pytopia.ai](https://www.pytopia.ai), and also my [teaching material](https://github.com/pytopia).
+- 📫 How to reach me: skm@gmail.com
+
+
+### 🖥 Skills
+
+- C, C++, JAVA Programming Language
+- App Development
+- Web Development
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/skm) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/skm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/skm) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/skm) 
 
@@ -10,9 +22,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-maurya-sm&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src='![image](https://github.com/shubham-maurya-sm/shubham-maurya-sm/assets/160427804/7b249b9a-751a-4ca0-9d05-ef41376dbcb5)
+![Uploading image.png…]()
+/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shubham-maurya-sm&icon=0&color=0)]()
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
