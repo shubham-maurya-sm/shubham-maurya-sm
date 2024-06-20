@@ -1,6 +1,6 @@
 
 - 💻 Owner of [**shubham-maurya-sm**](https://github.com/shubham-maurya-sm) github organization. Check it out for daily coding  contents.
-- 🤔 I’ve just completed my graduation (BCA) from University of Allahabad [Architecture Patterns with Python](#). Check it out if interested.
+- 🤔 I’ve just completed my graduation (BCA) from  [University of Allahabad](https://www.allduniv.ac.in/). Check it out if interested.
 - 🌱 I also teach Python, Machine Learning, Git, etc. Visit PyTopia website, [Pytopia.ai](https://www.pytopia.ai), and also my [teaching material](https://github.com/pytopia).
 - 📫 How to reach me: skm@gmail.com
 
