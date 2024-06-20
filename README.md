@@ -5,7 +5,7 @@
 - 📫 How to reach me: skm@gmail.com
 
 
-# 🖥 Skills
+# 🎯 Skills
 
 - C, C++, JAVA Programming Language
 - App Development
