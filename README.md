@@ -1,8 +1,8 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
-- 💻 Owner of [**shubham-maurya-sm**](https://github.com/shubham-maurya-sm) github organization. Check it out for daily coding  contents.
+- 💻 Owner of [**shubham-maurya-sm**](https://github.com/shubham-maurya-sm) github organization.
 - 🤔 I’ve just completed my graduation (BCA) from  [University of Allahabad](https://www.allduniv.ac.in/). Check it out if interested.
 - 🌱 I'm learning app development nowdays.
-- 📫 How to reach me: skm@gmail.com
+- 📫 How to reach me: professional.shubham.maurya@gmail.com
 
 
 ## 🎯 Skills
