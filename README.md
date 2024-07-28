@@ -25,7 +25,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=shubham-maurya-sm&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubham-maurya-sm&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-maurya-sm&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=shubhammaurya12)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=shubhammmaurya12)
 <!--- Support
 
 <p><a href="https://www.buymeacoffee.com/skm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="skm" /></a><a href="https://ko-fi.com/skm"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="skm" /></a></p><br><br>
