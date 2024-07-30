@@ -22,10 +22,9 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 <!---![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) --->
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shubham-maurya-sm&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=shubham-maurya-sm&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubham-maurya-sm&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-maurya-sm&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br>
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=shubhammmaurya12)
 
 ### ✍️ Random Dev Quote
