@@ -26,8 +26,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubham-maurya-sm&theme=ambient_gradient&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-maurya-sm&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=shubhammmaurya12)
-
-### ✍️ Random Dev Quote
+<br/>
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 <!--- Support
 
