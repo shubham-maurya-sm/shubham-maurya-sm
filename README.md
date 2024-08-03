@@ -1,4 +1,4 @@
-### Hello, I'm [Shubham Maurya!](https://www.linkedin.com/in/shubhammaurya12)
+## Hello, I'm [Shubham Maurya!](https://www.linkedin.com/in/shubhammaurya12)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+Programmer;Coder;Web+Developer+(MERN);)](https://www.linkedin.com/in/shubhammaurya12)
 
