@@ -74,5 +74,7 @@
 ## 🌟 Profile Visits
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=shubham-maurya-sm&icon=0&color=0" alt="Profile Visit Count">
+  ![image](https://github.com/user-attachments/assets/1ebab9c9-5132-4549-8af7-f35fb54ce774)
+
 </div>
 
