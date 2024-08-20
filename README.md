@@ -1,7 +1,7 @@
 ## Hello, I'm [Shubham Maurya!](https://www.linkedin.com/in/shubhammaurya12)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+Programmer;Coder;Web+Developer+(MERN);)](https://www.linkedin.com/in/shubhammaurya12)
-<div align="right">
+<div align="center">
   
   <img src="https://github.com/user-attachments/assets/2cbea33e-4cf0-4237-bb7f-3a05cdb5fda4" alt="" width="50">
 
