@@ -1,9 +1,6 @@
-## Hello, I'm [Shubham Maurya!](https://www.linkedin.com/in/shubhammaurya12)
-<div align="center">
-  
-  <img src="https://github.com/user-attachments/assets/2cbea33e-4cf0-4237-bb7f-3a05cdb5fda4" alt="" width="50">
+## Hello, I'm [Shubham Maurya!](https://www.linkedin.com/in/shubhammaurya12) ![image](https://github.com/user-attachments/assets/be013bb3-498a-4c85-a24e-97b0fda6af11)
 
-</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+Programmer;Coder;Web+Developer+(MERN);)](https://www.linkedin.com/in/shubhammaurya12)
 
 
