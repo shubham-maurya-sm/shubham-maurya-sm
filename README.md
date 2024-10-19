@@ -76,9 +76,7 @@
 
 ## 🌟 Profile Visits
 <div align="center">
-  <div align="center">
-  <img src="https://profile-counter.glitch.me/shubham-maurya-sm/count.svg?"  />
-</div>
+  
    <img src="https://visitcount.itsvg.in/api?id=shubham-maurya-sm&icon=0&color=0" alt="Profile Visit Count">
   
   <br/>
