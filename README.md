@@ -62,6 +62,10 @@
   <img src="https://leetcode.card.workers.dev/?username=shubhammmaurya12" alt="Leetcode Stats" />
 </div>
 
+## Github Achievements
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Breadcrumbsshubham-maurya-sm
+" alt="Breadcrumbsshubham-maurya-sm" /></a> </p>
+
 ## ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Random Dev Quote" />
