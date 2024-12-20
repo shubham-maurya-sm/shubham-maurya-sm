@@ -63,8 +63,14 @@
 </div>
 
 ## Github Achievements
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Breadcrumbsshubham-maurya-sm
-" alt="Breadcrumbsshubham-maurya-sm" /></a> </p>
+<div align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Breadcrumbsshubham-maurya-sm
+" alt="Breadcrumbsshubham-maurya-sm" />
+  </a> 
+</div>
+
+
 
 ## ✍️ Random Dev Quote
 <div align="center">
