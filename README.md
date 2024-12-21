@@ -26,6 +26,9 @@
   <a href="https://linkedin.com/in/shubhammaurya12"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://quora.com/profile/Shubham-Maurya-276"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" alt="Quora"></a>
 </div>
+
+
+
 <!---
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
@@ -60,6 +63,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-maurya-sm&theme=ambient_gradient&hide_border=false" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-maurya-sm&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
   <img src="https://leetcode.card.workers.dev/?username=shubhammmaurya12" alt="Leetcode Stats" />
+  
 </div>
 
 ## Github Achievements
